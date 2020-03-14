@@ -57,3 +57,11 @@ docs/_build/
 
 # PyBuilder
 target/
+
+# venv stuff
+share/
+pyvenv.cfg
+lib/
+lib64
+include/
+bin/
