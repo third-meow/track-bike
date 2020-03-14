@@ -2,8 +2,9 @@
 a bicycle image tracking system thing :)
 
 ### Progress / Current goal
-Currently the goal is to make face\* detection with haar cascades work
 
-\* why face detection? because all the tutorials are on face detection
+Currently the goal is to train a custom bicycle haar cascade
 
-[Dataset for training the cascade classifer] (https://www.kaggle.com/c/image-classification2/overview)
+Have achived basic face detection with haar cascades work
+
+[Dataset for training the bicycle cascade classifer] (https://www.kaggle.com/c/image-classification2/overview)
